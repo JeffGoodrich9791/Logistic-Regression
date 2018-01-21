@@ -26,3 +26,7 @@ In a terminal or command window, navigate to the top-level project directory `bo
 
 This will open the iPython Notebook software and project file in your browser.
 
+### Results
+
+Logistic Linear Regression produced a prediction accuracy of 89% on 100 training examples
+
